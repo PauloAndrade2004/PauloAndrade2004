@@ -6,9 +6,15 @@
 Me chamo Paulo Cesar, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonadpor tecnologia e compartilho meu conhecimento através do meu Instagram , e também através do Instagram, com o perfil chamado "[paulo.andrade_16](https://www.instagram.com/paulo.andrade_16/)".
 
 <p align="left">
-   
-
+    <a href="https://www.instagram.com/https://www.instagram.com/paulo.andrade_16/">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
 </p>
+
 
 ---
 
@@ -53,7 +59,7 @@ Me chamo Paulo Cesar, tenho 20 anos e sou natural de São Paulo. Atualmente, est
 
 ### 📊 Estatísticas
 
-<p>
+[<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -69,4 +75,5 @@ Me chamo Paulo Cesar, tenho 20 anos e sou natural de São Paulo. Atualmente, est
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br
+)
