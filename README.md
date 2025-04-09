@@ -16,7 +16,7 @@ Olá! Meu nome é Paulo Cesar, tenho 20 anos e sou natural de São Paulo. Atualm
             src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/seu-usuario/">
+    <a href="https://www.linkedin.com/in/paulo-andrade-aa811535b/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
