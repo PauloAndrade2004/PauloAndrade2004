@@ -6,6 +6,34 @@ Olá! Meu nome é Paulo Cesar, tenho 20 anos e sou natural de São Paulo. Atualm
 
 ---
 
+### 📬 Entre em Contato
+
+<p align="left">
+    <a href="mailto:pauloandradeoliveir2004@gmail.com">
+        <img 
+            alt="E-mail" 
+            title="Me envie um e-mail!" 
+            src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/seu-usuario/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/paulo.andrade_16/">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
 ### 🚀 Tecnologias que Conheço
 
 Aqui estão algumas tecnologias que já fazem parte do meu conjunto de habilidades:
@@ -49,37 +77,3 @@ Como meu foco é me tornar um desenvolvedor backend especializado em Java, estas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAndrade2004&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
-
----
-
-### 📬 Entre em Contato
-
-<p align="left">
-    <a href="mailto:seuemail@gmail.com">
-        <img 
-            alt="E-mail" 
-            title="Me envie um e-mail!" 
-            src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/seu-usuario/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/paulo.andrade_16/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAndrade2004&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
-
-
