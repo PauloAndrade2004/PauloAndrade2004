@@ -59,6 +59,12 @@ Me chamo Paulo Cesar, tenho 20 anos e sou natural de São Paulo. Atualmente, est
 
 ### 📊 Estatísticas
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloAndrade2004&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAndrade2004&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
 
